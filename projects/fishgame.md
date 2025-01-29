@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: img/fishgame.jpg
 title: "Two-player fishing game"
 date: 2024
 published: true
@@ -11,10 +11,10 @@ summary: "My team developed a finishing game a fishing game, which is a simple g
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../" class="img-thumbnail" >
+  <img width="200px" src="../img/fishgame.jpg" class="img-thumbnail" >
 </div>
 
-This fishing game is the last project developed by KCC campus using ICS 211 Java. It is a two player game where each player will have 12 opportunities to fish using different methods. Some methods are not allowed in specific seasons, and rules can be printed before each fishing start. Some caught fish are too small to fit into the bag, so it is necessary to decide whether to put the fish in the bag or let them leave each time. Players who use illegal fishing methods or put illegal fish in the bag will lose the game after 3 times, and after 12 times, the player with the higher total length will win. There are three people in my team responsible for classifying fish.
+This fishing game was the last project developed on the KCC campus using ICS 211 Java. This is a one-of-a-kind game where each player has 12 opportunities to fish sometimes using different methods. Some methods are not allowed during certain seasons and the rules can be printed before each fishing session. Some of the fish caught are too small to fit in the bag, so the decision is made each time whether to bag the fish or let them go. Players who use illegal fishing methods or bag illegal fish will lose the game after 3 times. After 12 times, the total is the longest adventure for one player. There are three people in my team and I am responsible for sorting the two and checking for formatting errors.
 
 
-Y
+
