@@ -10,9 +10,8 @@
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "YuemingGuo9", "url": "https://github.com/YuemingGuo9/yuemingguo.github.io" },
-      { "network": "linkedin", "username": "Yueming-guo", "url": "www.linkedin.com/in/yueming-guo-2ba496347" },
-      { "network": "twitter", "username": "mollymal", "url": "" },
-      { "network": "instagram", "username": "molly", "url": "" }
+      { "network": "linkedin", "username": "Yueming-guo", "url": "https://www.linkedin.com/in/yueming-guo-2ba496347/" },
+    
     ]
   },
   "interests": [
