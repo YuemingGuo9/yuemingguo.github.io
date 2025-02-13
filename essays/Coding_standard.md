@@ -8,6 +8,8 @@ published: true
 labels:
   - Engineering
 ---
+
+<img width="800px" class="rounded float-start pe-4" src="../img/s1.png">
 <h1>Coding Standards: From Frustration to Growth</h1>
 <h2></h2>The Strictness of Coding Standards is Frustrating?</h2>
 When I first worked with TypeScript’s tsconfig.json, I was frustrated by a tiny comma. A red wavy line in VSCode kept warning me, and ESLint even prevented my code from running. I thought, Why does a small, insignificant comma matter so much? It didn’t seem to affect the overall logic, yet the compiler insisted on enforcing this rule. This felt like an unnecessary constraint, as if the linter was picking a fight with me.
