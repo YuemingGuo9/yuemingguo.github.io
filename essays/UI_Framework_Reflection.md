@@ -4,7 +4,7 @@ type: essay
 title: "The difficult things will always be difficult"
 # All dates must be YYYY-MM-DD format!
 date: 2025-02-27
-published: false
+published: true
 labels:
   - Engineering
 ---
