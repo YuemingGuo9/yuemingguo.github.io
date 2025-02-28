@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "The difficult things will always be difficult"
+title: "I really enjoy using UI frameworks!"
 # All dates must be YYYY-MM-DD format!
 date: 2025-02-27
 published: true
