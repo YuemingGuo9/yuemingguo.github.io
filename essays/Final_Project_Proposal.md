@@ -33,7 +33,7 @@ Options for “less distracting” or “more focus-enchancing” adjustments ap
 
 Users can see what others are listening to for similar study tasks or moods.
 Popluar study playlists for UH Manoa students can be featured, fostering a community-driven approach to an effective study habit.
-Use case ideas
+<h2>Use case ideas:</h2>
 Case 1: Final Exam Prep for Intense Concentration Rachel, a student at UH Mānoa has a final exam approaching and needs focus for her study session. She opens the app, selects “Intense Focus”, chooses a 3-hour duration, and receives a playlist and instrumental and ambient tracks designed to keep distractions at bay.
 
 Case 2: Relaxed Study for Casual Review Jon needs a more relaxed study atmosphere while reviewing notes for a less demanding subjects. He selects “Background Noise” with a “Calm” mood, generating a playlist featuring soft acoustic tracks that creates a background sound without requiring intense focus.
