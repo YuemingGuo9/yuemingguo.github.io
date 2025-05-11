@@ -16,15 +16,15 @@ Artificial Intelligence has rapidly woven itself into modern education. For stud
 
 I didn’t start the course relying on AI. In fact, early WODs (Workout of the Day assignments) were manageable enough with traditional problem-solving. But as we moved into more complex tech stacks like Next.js and Prisma, I found that AI could be a powerful support system—if used wisely.
 
-- **Debugging**: Prisma migrations threw some strange errors. ChatGPT helped me understand the concept of “drift” and even explained how `npx prisma migrate reset` worked behind the scenes. This gave me confidence to handle future migration errors with a clear mind.
+- **Debugging**: Prisma migrations threw some strange errors. ChatGPT helped me understand the concept of “drift” and even explained how "npx prisma migrate reset" worked behind the scenes. This gave me confidence to handle future migration errors with a clear mind.
 - **Code Refactoring**: I often asked Copilot for help reformatting async functions or cleaning up repetitive logic. While its suggestions weren’t always perfect, they gave me a starting point to iterate from.
 - **Playwright Tests**: One of the toughest challenges was writing stable Playwright tests for our final project. When test behavior diverged between debug mode and headless runs, ChatGPT helped me understand timing issues and async pitfalls. It didn’t fix everything, but it pointed me in the right direction when the error messages didn’t.
 
 ### III. AI for Conceptual Understanding
 
-AI also helped me bridge knowledge gaps in HTML, CSS modules, and even database relations. When I didn’t understand how a `useEffect` hook worked or why certain JSX code looked weird, I’d ask ChatGPT to explain it in simpler terms.
+AI also helped me bridge knowledge gaps in HTML, CSS modules, and even database relations. When I didn’t understand how a "useEffect" hook worked or why certain JSX code looked weird, I’d ask ChatGPT to explain it in simpler terms.
 
-That said, I’ve learned that **AI can only reinforce what I’m already trying to learn**. When I blindly copied code without understanding it, it rarely stuck. But when I asked, “What does this function really do?” or “Why is this style not applying?”—that’s when the tool became part of my learning.
+That said, I’ve learned that : AI can only reinforce what I’m already trying to learn. When I blindly copied code without understanding it, it rarely stuck. But when I asked, “What does this function really do?” or “Why is this style not applying?”—that’s when the tool became part of my learning.
 
 ### IV. Writing and Documentation
 
@@ -34,7 +34,7 @@ Similarly, during code documentation, Copilot would sometimes auto-generate comm
 
 ### V. Classroom and Teamwork Use
 
-In group chats or class discussions, I didn’t usually use AI to answer questions, but I did use it to **check my own understanding** before contributing. If someone asked something I wasn’t sure about, I’d consult AI first—not to copy an answer, but to double-check I wasn’t misinforming anyone.
+In group chats or class discussions, I didn’t usually use AI to answer questions, but I did use it to check my own understandin before contributing. If someone asked something I wasn’t sure about, I’d consult AI first—not to copy an answer, but to double-check I wasn’t misinforming anyone.
 
 This made me more confident in collaborating with teammates. If I used AI to assist in solving something, I’d say, “This part came from ChatGPT, but I checked and tweaked it.” Being transparent helped us all work more efficiently.
 
@@ -42,7 +42,7 @@ This made me more confident in collaborating with teammates. If I used AI to ass
 
 There were moments I almost slipped into over-reliance—especially under time pressure. Once, during a timed WOD, I pasted the prompt into ChatGPT and submitted the code it gave me because I was running out of time. It worked, but I didn’t learn much from it.
 
-That experience made me rethink how I use AI. Since then, I’ve made a conscious effort to **treat AI as a guide, not a shortcut**. If I can’t explain what a line of code is doing, then I know I shouldn’t submit it.
+That experience made me rethink how I use AI. Since then, I’ve made a conscious effort to treat AI as a guide, not a shortcut. If I can’t explain what a line of code is doing, then I know I shouldn’t submit it.
 
 ### VII. AI in the Bigger Picture
 
