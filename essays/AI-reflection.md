@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "AI as a Companion in Software Engineering: A Reflection on ICS 314"
+title: "AI Reflection on ICS 314"
 date: 2025-05-11
 published: true
 labels:
